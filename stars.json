@@ -25,15 +25,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 73490,
-    "open_issues_count": 1990,
-    "forks_count": 7651
+    "stargazers_count": 73552,
+    "open_issues_count": 1995,
+    "forks_count": 7660
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 81555,
-    "open_issues_count": 903,
-    "forks_count": 35448
+    "stargazers_count": 81610,
+    "open_issues_count": 897,
+    "forks_count": 35506
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "DavidWells/netlify-functions-workshop",
-    "stargazers_count": 286,
+    "stargazers_count": 287,
     "open_issues_count": 4,
     "forks_count": 68
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
-    "stargazers_count": 886,
-    "open_issues_count": 58,
+    "stargazers_count": 889,
+    "open_issues_count": 41,
     "forks_count": 590
   },
   {
@@ -63,31 +63,31 @@
     "full_name": "WebDevSimplified/GitHub-Jobs-API-React-App",
     "stargazers_count": 118,
     "open_issues_count": 12,
-    "forks_count": 67
+    "forks_count": 68
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 43355,
+    "stargazers_count": 43514,
     "open_issues_count": 1,
-    "forks_count": 9363
+    "forks_count": 9379
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 207587,
-    "open_issues_count": 106,
-    "forks_count": 29528
+    "stargazers_count": 208115,
+    "open_issues_count": 103,
+    "forks_count": 29611
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 101643,
+    "stargazers_count": 101804,
     "open_issues_count": 0,
-    "forks_count": 10619
+    "forks_count": 10626
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 18544,
-    "open_issues_count": 88,
-    "forks_count": 3292
+    "stargazers_count": 18584,
+    "open_issues_count": 92,
+    "forks_count": 3301
   },
   {
     "full_name": "MDutro/Mars-Weather-Station",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "donavon/use-dark-mode",
-    "stargazers_count": 1210,
+    "stargazers_count": 1212,
     "open_issues_count": 43,
-    "forks_count": 94
+    "forks_count": 93
   },
   {
     "full_name": "MDutro/jubilant-kiki-saver-couscous",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "Dylan-Israel/ultimate-coding-resources",
-    "stargazers_count": 3195,
+    "stargazers_count": 3196,
     "open_issues_count": 3,
     "forks_count": 377
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 215809,
+    "stargazers_count": 216347,
     "open_issues_count": 42,
-    "forks_count": 23998
+    "forks_count": 24039
   },
   {
     "full_name": "LearnWebCode/travel-site-files",
