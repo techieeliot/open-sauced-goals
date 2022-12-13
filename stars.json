@@ -37,15 +37,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 75424,
-    "open_issues_count": 2208,
-    "forks_count": 7971
+    "stargazers_count": 75496,
+    "open_issues_count": 2206,
+    "forks_count": 7984
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 83262,
-    "open_issues_count": 972,
-    "forks_count": 37194
+    "stargazers_count": 83322,
+    "open_issues_count": 992,
+    "forks_count": 37261
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "DavidWells/netlify-functions-workshop",
-    "stargazers_count": 305,
+    "stargazers_count": 304,
     "open_issues_count": 5,
-    "forks_count": 76
+    "forks_count": 75
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
-    "stargazers_count": 1044,
-    "open_issues_count": 69,
-    "forks_count": 709
+    "stargazers_count": 1048,
+    "open_issues_count": 67,
+    "forks_count": 710
   },
   {
     "full_name": "randallkanna/frontend-developer-roadmap",
@@ -74,37 +74,37 @@
   {
     "full_name": "WebDevSimplified/GitHub-Jobs-API-React-App",
     "stargazers_count": 121,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 70
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 46186,
+    "stargazers_count": 46267,
     "open_issues_count": 0,
-    "forks_count": 9772
+    "forks_count": 9788
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 220689,
-    "open_issues_count": 193,
-    "forks_count": 31912
+    "stargazers_count": 221047,
+    "open_issues_count": 207,
+    "forks_count": 31973
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 105460,
+    "stargazers_count": 105553,
     "open_issues_count": 0,
-    "forks_count": 10977
+    "forks_count": 10979
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 19561,
-    "open_issues_count": 108,
-    "forks_count": 3416
+    "stargazers_count": 19592,
+    "open_issues_count": 111,
+    "forks_count": 3426
   },
   {
     "full_name": "MDutro/Mars-Weather-Station",
     "stargazers_count": 3,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "donavon/use-dark-mode",
-    "stargazers_count": 1220,
+    "stargazers_count": 1221,
     "open_issues_count": 48,
     "forks_count": 95
   },
@@ -128,7 +128,7 @@
   {
     "full_name": "leviking/KikiSaver",
     "stargazers_count": 1,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 7
   },
   {
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "Dylan-Israel/ultimate-coding-resources",
-    "stargazers_count": 3226,
+    "stargazers_count": 3227,
     "open_issues_count": 1,
     "forks_count": 381
   },
@@ -152,7 +152,7 @@
   {
     "full_name": "leviking/scaling-rotary-phone",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 229123,
-    "open_issues_count": 51,
-    "forks_count": 24577
+    "stargazers_count": 229644,
+    "open_issues_count": 53,
+    "forks_count": 24592
   },
   {
     "full_name": "LearnWebCode/travel-site-files",
