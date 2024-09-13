@@ -37,15 +37,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 83951,
-    "open_issues_count": 2003,
-    "forks_count": 9215
+    "stargazers_count": 83958,
+    "open_issues_count": 2022,
+    "forks_count": 9224
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 91830,
-    "open_issues_count": 1222,
-    "forks_count": 48735
+    "stargazers_count": 91860,
+    "open_issues_count": 1215,
+    "forks_count": 48794
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
-    "stargazers_count": 1465,
+    "stargazers_count": 1463,
     "open_issues_count": 37,
-    "forks_count": 882
+    "forks_count": 881
   },
   {
     "full_name": "randallkanna/frontend-developer-roadmap",
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 58168,
+    "stargazers_count": 58191,
     "open_issues_count": 1,
-    "forks_count": 11416
+    "forks_count": 11421
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 290840,
-    "open_issues_count": 79,
-    "forks_count": 38487
+    "stargazers_count": 291157,
+    "open_issues_count": 86,
+    "forks_count": 38527
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 121022,
-    "open_issues_count": 0,
-    "forks_count": 11987
+    "stargazers_count": 121136,
+    "open_issues_count": 1,
+    "forks_count": 11995
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 23334,
+    "stargazers_count": 23346,
     "open_issues_count": 401,
-    "forks_count": 3841
+    "forks_count": 3844
   },
   {
     "full_name": "MDutro/Mars-Weather-Station",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "donavon/use-dark-mode",
-    "stargazers_count": 1284,
+    "stargazers_count": 1282,
     "open_issues_count": 48,
     "forks_count": 99
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 323343,
+    "stargazers_count": 323757,
     "open_issues_count": 46,
-    "forks_count": 27623
+    "forks_count": 27636
   },
   {
     "full_name": "LearnWebCode/travel-site-files",
