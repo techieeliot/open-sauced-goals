@@ -1,9 +1,9 @@
 [
   {
     "full_name": "judygab/nextjs-portfolio",
-    "stargazers_count": 621,
+    "stargazers_count": 623,
     "open_issues_count": 27,
-    "forks_count": 349
+    "forks_count": 348
   },
   {
     "full_name": "mtliendo/emoji-thrower",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 88853,
-    "open_issues_count": 2255,
-    "forks_count": 9812
+    "stargazers_count": 88879,
+    "open_issues_count": 2248,
+    "forks_count": 9818
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 97021,
-    "open_issues_count": 1330,
-    "forks_count": 54231
+    "stargazers_count": 97057,
+    "open_issues_count": 1339,
+    "forks_count": 54265
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 63926,
+    "stargazers_count": 63951,
     "open_issues_count": 6,
-    "forks_count": 11928
+    "forks_count": 11932
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 345665,
-    "open_issues_count": 35,
-    "forks_count": 43526
+    "stargazers_count": 345904,
+    "open_issues_count": 38,
+    "forks_count": 43537
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 126062,
+    "stargazers_count": 126088,
     "open_issues_count": 0,
-    "forks_count": 12393
+    "forks_count": 12392
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 25000,
-    "open_issues_count": 498,
-    "forks_count": 3998
+    "stargazers_count": 25007,
+    "open_issues_count": 499,
+    "forks_count": 3999
   },
   {
     "full_name": "MDutro/Mars-Weather-Station",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "Dylan-Israel/ultimate-coding-resources",
-    "stargazers_count": 3792,
-    "open_issues_count": 7,
-    "forks_count": 460
+    "stargazers_count": 3790,
+    "open_issues_count": 6,
+    "forks_count": 459
   },
   {
     "full_name": "twclark0/magnolia-talk",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 423366,
+    "stargazers_count": 424263,
     "open_issues_count": 54,
-    "forks_count": 32608
+    "forks_count": 32657
   },
   {
     "full_name": "LearnWebCode/travel-site-files",
     "stargazers_count": 22,
     "open_issues_count": 1,
-    "forks_count": 37
+    "forks_count": 36
   }
 ]
