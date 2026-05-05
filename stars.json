@@ -1,7 +1,7 @@
 [
   {
     "full_name": "judygab/nextjs-portfolio",
-    "stargazers_count": 626,
+    "stargazers_count": 625,
     "open_issues_count": 29,
     "forks_count": 347
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 89835,
-    "open_issues_count": 2268,
-    "forks_count": 10041
+    "stargazers_count": 89846,
+    "open_issues_count": 2277,
+    "forks_count": 10037
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 97901,
-    "open_issues_count": 1366,
-    "forks_count": 54594
+    "stargazers_count": 97928,
+    "open_issues_count": 1365,
+    "forks_count": 54589
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -69,7 +69,7 @@
     "full_name": "EddieHubCommunity/awesome-github-profiles",
     "stargazers_count": 1547,
     "open_issues_count": 37,
-    "forks_count": 906
+    "forks_count": 905
   },
   {
     "full_name": "randallkanna/frontend-developer-roadmap",
@@ -85,26 +85,26 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 65433,
+    "stargazers_count": 65447,
     "open_issues_count": 14,
-    "forks_count": 12024
+    "forks_count": 12023
   },
   {
     "full_name": "nilbuild/developer-roadmap",
-    "stargazers_count": 353951,
-    "open_issues_count": 12,
-    "forks_count": 43982
+    "stargazers_count": 354166,
+    "open_issues_count": 16,
+    "forks_count": 44013
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 127635,
+    "stargazers_count": 127690,
     "open_issues_count": 1,
-    "forks_count": 12481
+    "forks_count": 12479
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 25267,
-    "open_issues_count": 525,
+    "stargazers_count": 25274,
+    "open_issues_count": 526,
     "forks_count": 3995
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 460674,
-    "open_issues_count": 69,
-    "forks_count": 34560
+    "stargazers_count": 462566,
+    "open_issues_count": 70,
+    "forks_count": 34722
   },
   {
     "full_name": "LearnWebCode/travel-site-files",
     "stargazers_count": 22,
     "open_issues_count": 1,
-    "forks_count": 35
+    "forks_count": 34
   }
 ]
