@@ -9,7 +9,7 @@
     "full_name": "judygab/nextjs-portfolio",
     "stargazers_count": 619,
     "open_issues_count": 28,
-    "forks_count": 346
+    "forks_count": 345
   },
   {
     "full_name": "mtliendo/emoji-thrower",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 90716,
-    "open_issues_count": 1761,
-    "forks_count": 10290
+    "stargazers_count": 90752,
+    "open_issues_count": 1777,
+    "forks_count": 10361
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 98882,
-    "open_issues_count": 1120,
-    "forks_count": 54684
+    "stargazers_count": 98918,
+    "open_issues_count": 1110,
+    "forks_count": 54676
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
-    "stargazers_count": 1550,
+    "stargazers_count": 1548,
     "open_issues_count": 37,
-    "forks_count": 901
+    "forks_count": 899
   },
   {
     "full_name": "randallkanna/frontend-developer-roadmap",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 66539,
-    "open_issues_count": 70,
-    "forks_count": 12121
+    "stargazers_count": 66568,
+    "open_issues_count": 76,
+    "forks_count": 12122
   },
   {
     "full_name": "nilbuild/developer-roadmap",
-    "stargazers_count": 363201,
-    "open_issues_count": 0,
-    "forks_count": 44702
+    "stargazers_count": 363502,
+    "open_issues_count": 5,
+    "forks_count": 44723
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 128546,
+    "stargazers_count": 128589,
     "open_issues_count": 0,
-    "forks_count": 12474
+    "forks_count": 12477
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 25395,
-    "open_issues_count": 536,
-    "forks_count": 3996
+    "stargazers_count": 25398,
+    "open_issues_count": 540,
+    "forks_count": 3994
   },
   {
     "full_name": "MDutro/Mars-Weather-Station",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 490779,
-    "open_issues_count": 99,
-    "forks_count": 36142
+    "stargazers_count": 492125,
+    "open_issues_count": 100,
+    "forks_count": 36212
   }
 ]
