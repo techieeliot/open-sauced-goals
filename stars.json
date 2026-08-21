@@ -49,15 +49,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 90861,
-    "open_issues_count": 1776,
+    "stargazers_count": 90882,
+    "open_issues_count": 1790,
     "forks_count": 10391
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 99097,
-    "open_issues_count": 1077,
-    "forks_count": 54698
+    "stargazers_count": 99131,
+    "open_issues_count": 1081,
+    "forks_count": 54701
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -91,26 +91,26 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 66674,
-    "open_issues_count": 87,
-    "forks_count": 12137
+    "stargazers_count": 66709,
+    "open_issues_count": 91,
+    "forks_count": 12140
   },
   {
     "full_name": "nilbuild/developer-roadmap",
-    "stargazers_count": 364752,
-    "open_issues_count": 8,
-    "forks_count": 44812
+    "stargazers_count": 365022,
+    "open_issues_count": 7,
+    "forks_count": 44821
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 128734,
-    "open_issues_count": 1,
+    "stargazers_count": 128763,
+    "open_issues_count": 0,
     "forks_count": 12486
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 25413,
-    "open_issues_count": 540,
+    "stargazers_count": 25422,
+    "open_issues_count": 541,
     "forks_count": 3993
   },
   {
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "Dylan-Israel/ultimate-coding-resources",
-    "stargazers_count": 3829,
+    "stargazers_count": 3828,
     "open_issues_count": 2,
     "forks_count": 462
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 497018,
-    "open_issues_count": 102,
-    "forks_count": 36449
+    "stargazers_count": 498275,
+    "open_issues_count": 105,
+    "forks_count": 36498
   }
 ]
