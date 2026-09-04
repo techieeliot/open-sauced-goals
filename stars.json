@@ -49,15 +49,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 90976,
-    "open_issues_count": 1778,
-    "forks_count": 10428
+    "stargazers_count": 90999,
+    "open_issues_count": 1808,
+    "forks_count": 10435
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 99326,
-    "open_issues_count": 1103,
-    "forks_count": 54703
+    "stargazers_count": 99378,
+    "open_issues_count": 1099,
+    "forks_count": 54714
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
-    "stargazers_count": 1545,
+    "stargazers_count": 1544,
     "open_issues_count": 37,
     "forks_count": 897
   },
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 66793,
-    "open_issues_count": 107,
-    "forks_count": 12159
+    "stargazers_count": 66823,
+    "open_issues_count": 112,
+    "forks_count": 12171
   },
   {
     "full_name": "nilbuild/developer-roadmap",
-    "stargazers_count": 366006,
-    "open_issues_count": 21,
-    "forks_count": 44891
+    "stargazers_count": 366252,
+    "open_issues_count": 4,
+    "forks_count": 44893
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 128879,
-    "open_issues_count": 0,
-    "forks_count": 12484
+    "stargazers_count": 128935,
+    "open_issues_count": 1,
+    "forks_count": 12482
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 25440,
-    "open_issues_count": 541,
-    "forks_count": 3992
+    "stargazers_count": 25448,
+    "open_issues_count": 542,
+    "forks_count": 3993
   },
   {
     "full_name": "MDutro/Mars-Weather-Station",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 501752,
-    "open_issues_count": 105,
-    "forks_count": 36661
+    "stargazers_count": 502734,
+    "open_issues_count": 106,
+    "forks_count": 36698
   }
 ]
