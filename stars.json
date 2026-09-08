@@ -7,7 +7,7 @@
   },
   {
     "full_name": "judygab/nextjs-portfolio",
-    "stargazers_count": 621,
+    "stargazers_count": 620,
     "open_issues_count": 28,
     "forks_count": 344
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 90999,
-    "open_issues_count": 1808,
-    "forks_count": 10435
+    "stargazers_count": 91040,
+    "open_issues_count": 1812,
+    "forks_count": 10445
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 99378,
-    "open_issues_count": 1099,
-    "forks_count": 54714
+    "stargazers_count": 99419,
+    "open_issues_count": 1106,
+    "forks_count": 54713
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 66823,
-    "open_issues_count": 112,
-    "forks_count": 12171
+    "stargazers_count": 66860,
+    "open_issues_count": 116,
+    "forks_count": 12178
   },
   {
     "full_name": "nilbuild/developer-roadmap",
-    "stargazers_count": 366252,
-    "open_issues_count": 4,
-    "forks_count": 44893
+    "stargazers_count": 366536,
+    "open_issues_count": 0,
+    "forks_count": 44902
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 128935,
+    "stargazers_count": 128999,
     "open_issues_count": 1,
-    "forks_count": 12482
+    "forks_count": 12484
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 25448,
+    "stargazers_count": 25455,
     "open_issues_count": 542,
-    "forks_count": 3993
+    "forks_count": 3996
   },
   {
     "full_name": "MDutro/Mars-Weather-Station",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "Dylan-Israel/ultimate-coding-resources",
-    "stargazers_count": 3827,
-    "open_issues_count": 3,
-    "forks_count": 462
+    "stargazers_count": 3829,
+    "open_issues_count": 4,
+    "forks_count": 463
   },
   {
     "full_name": "twclark0/magnolia-talk",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 502734,
+    "stargazers_count": 504002,
     "open_issues_count": 106,
-    "forks_count": 36698
+    "forks_count": 36778
   }
 ]
