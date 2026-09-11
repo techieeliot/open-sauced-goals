@@ -1,9 +1,9 @@
 [
   {
     "full_name": "thisdot/ai-for-engineering-teams-workshop",
-    "stargazers_count": 1,
+    "stargazers_count": 4,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 23
   },
   {
     "full_name": "judygab/nextjs-portfolio",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 91040,
-    "open_issues_count": 1812,
-    "forks_count": 10445
+    "stargazers_count": 91034,
+    "open_issues_count": 1822,
+    "forks_count": 10439
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 99419,
-    "open_issues_count": 1106,
-    "forks_count": 54713
+    "stargazers_count": 99470,
+    "open_issues_count": 1088,
+    "forks_count": 54701
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -91,26 +91,26 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 66860,
-    "open_issues_count": 116,
-    "forks_count": 12178
+    "stargazers_count": 66894,
+    "open_issues_count": 117,
+    "forks_count": 12179
   },
   {
     "full_name": "nilbuild/developer-roadmap",
-    "stargazers_count": 366536,
+    "stargazers_count": 366849,
     "open_issues_count": 0,
-    "forks_count": 44902
+    "forks_count": 44919
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 128999,
-    "open_issues_count": 1,
-    "forks_count": 12484
+    "stargazers_count": 129036,
+    "open_issues_count": 6,
+    "forks_count": 12481
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 25455,
-    "open_issues_count": 542,
+    "stargazers_count": 25464,
+    "open_issues_count": 543,
     "forks_count": 3996
   },
   {
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "Dylan-Israel/ultimate-coding-resources",
-    "stargazers_count": 3829,
+    "stargazers_count": 3832,
     "open_issues_count": 4,
     "forks_count": 463
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 504002,
+    "stargazers_count": 504871,
     "open_issues_count": 106,
-    "forks_count": 36778
+    "forks_count": 36830
   }
 ]
