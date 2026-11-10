@@ -3,7 +3,7 @@
     "full_name": "judygab/nextjs-portfolio",
     "stargazers_count": 622,
     "open_issues_count": 28,
-    "forks_count": 341
+    "forks_count": 340
   },
   {
     "full_name": "mtliendo/emoji-thrower",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 91463,
-    "open_issues_count": 1763,
-    "forks_count": 10494
+    "stargazers_count": 91505,
+    "open_issues_count": 1760,
+    "forks_count": 10510
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 100090,
-    "open_issues_count": 1148,
-    "forks_count": 54632
+    "stargazers_count": 100127,
+    "open_issues_count": 1150,
+    "forks_count": 54633
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "DavidWells/netlify-functions-workshop",
-    "stargazers_count": 342,
+    "stargazers_count": 341,
     "open_issues_count": 5,
     "forks_count": 81
   },
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 67333,
+    "stargazers_count": 67366,
     "open_issues_count": 5,
-    "forks_count": 12305
+    "forks_count": 12314
   },
   {
     "full_name": "nilbuild/developer-roadmap",
-    "stargazers_count": 371350,
-    "open_issues_count": 3,
-    "forks_count": 45306
+    "stargazers_count": 371679,
+    "open_issues_count": 7,
+    "forks_count": 45681
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 129424,
-    "open_issues_count": 3,
-    "forks_count": 12512
+    "stargazers_count": 129476,
+    "open_issues_count": 2,
+    "forks_count": 12513
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 25525,
+    "stargazers_count": 25524,
     "open_issues_count": 542,
-    "forks_count": 3990
+    "forks_count": 3986
   },
   {
     "full_name": "MDutro/Mars-Weather-Station",
@@ -124,12 +124,6 @@
     "stargazers_count": 1,
     "open_issues_count": 19,
     "forks_count": 6
-  },
-  {
-    "full_name": "leviking/KikiSaver",
-    "stargazers_count": 1,
-    "open_issues_count": 20,
-    "forks_count": 7
   },
   {
     "full_name": "techieeliot/techie-family-to-dos",
@@ -169,14 +163,20 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 531786,
+    "stargazers_count": 534292,
     "open_issues_count": 103,
-    "forks_count": 38116
+    "forks_count": 38254
   },
   {
     "full_name": "LearnWebCode/travel-site-files",
     "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 33
+  },
+  {
+    "full_name": "KenzieAcademy/frontend-lesson-inheritance-and-this-demo",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 7
   }
 ]
