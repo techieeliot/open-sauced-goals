@@ -43,15 +43,15 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 91505,
-    "open_issues_count": 1760,
-    "forks_count": 10510
+    "stargazers_count": 91550,
+    "open_issues_count": 1800,
+    "forks_count": 10519
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 100127,
+    "stargazers_count": 100182,
     "open_issues_count": 1150,
-    "forks_count": 54633
+    "forks_count": 54626
   },
   {
     "full_name": "johnlindquist/dotfiles",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
-    "stargazers_count": 1544,
+    "stargazers_count": 1545,
     "open_issues_count": 37,
-    "forks_count": 891
+    "forks_count": 890
   },
   {
     "full_name": "randallkanna/frontend-developer-roadmap",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 67366,
+    "stargazers_count": 67395,
     "open_issues_count": 5,
-    "forks_count": 12314
+    "forks_count": 12311
   },
   {
     "full_name": "nilbuild/developer-roadmap",
-    "stargazers_count": 371679,
-    "open_issues_count": 7,
-    "forks_count": 45681
+    "stargazers_count": 371916,
+    "open_issues_count": 1,
+    "forks_count": 46127
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 129476,
-    "open_issues_count": 2,
-    "forks_count": 12513
+    "stargazers_count": 129492,
+    "open_issues_count": 1,
+    "forks_count": 12520
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 25524,
+    "stargazers_count": 25528,
     "open_issues_count": 542,
-    "forks_count": 3986
+    "forks_count": 3988
   },
   {
     "full_name": "MDutro/Mars-Weather-Station",
@@ -117,7 +117,7 @@
     "full_name": "donavon/use-dark-mode",
     "stargazers_count": 1281,
     "open_issues_count": 45,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "MDutro/jubilant-kiki-saver-couscous",
@@ -134,8 +134,8 @@
   {
     "full_name": "Dylan-Israel/ultimate-coding-resources",
     "stargazers_count": 3834,
-    "open_issues_count": 9,
-    "forks_count": 466
+    "open_issues_count": 10,
+    "forks_count": 467
   },
   {
     "full_name": "twclark0/magnolia-talk",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 534292,
+    "stargazers_count": 535966,
     "open_issues_count": 103,
-    "forks_count": 38254
+    "forks_count": 38361
   },
   {
     "full_name": "LearnWebCode/travel-site-files",
